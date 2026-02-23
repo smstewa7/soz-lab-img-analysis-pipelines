@@ -1,0 +1,6 @@
+Confocal settings and macro parameters:
+20x microscopy
+microns per pixel = 0.311
+rolling ball radius 225 px justified by a 70 micron avg diameter
+mean noise reduction 2 px
+bernsen radius 225 px justified by a 70 micron avg diameter
