@@ -1,6 +1,12 @@
 Confocal settings and macro parameters:
 20x microscopy
-microns per pixel = 0.311
-rolling ball radius 225 px justified by a 70 micron avg diameter
+microns per pixel = 0.285
+rolling ball radius 265 px justified by a 70 micron avg diameter
 mean noise reduction 2 px
-bernsen radius 225 px justified by a 70 micron avg diameter
+bernsen radius 265 px justified by a 70 micron avg diameter
+8 bit images
+
+Mcherry and GFP: 40 light, 40 exposure, 25 gain
+RGB: 75 lights, 5 exposure, 1 gain
+
+25 micron z stacks: automate interface and export as .tiff
